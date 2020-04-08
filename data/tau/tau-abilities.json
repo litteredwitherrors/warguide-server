@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "59a3-4254-c6b0-d8f9",
+    "name": "Velocity tracker",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Add 1 to hit rolls for a model with a velocity tracker when it shoots at a unit that can FLY.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a0a8-a8a5-102d-cc19",
+    "name": "Target lock",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A model with a target lock does not suffer the penalty for moving and firing Heavy weapons, or for Advancing and firing Assault weapons. The model can also advance and fire Rapid Fire weapons, but must subtract 1 from its hit rolls when doing so.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "8f1c-39b1-296b-39ef",
+    "name": "Shield generator",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A model with a shield generator has a 4+ invulnerable save. You cannot take this support system on a Riptide battlesuit.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "52ad-81b1-cccd-614b",
+    "name": "Multi-tracker",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Re-roll hit rolls of 1 in the Shooting phase for a model equipped with a multi-tracker if it fires all of its weapons at the same target and that target contains 5 or more models.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a8f2-944e-8ce8-80b6",
+    "name": "Early warning override",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "If any enemy units are set up within 12\" of a model from your army equipped with an early warning override as the result of an ability that allows them to arrive mid-battle (i.e. teleporting to the battlefield), then at the end of that phase the model may immediately shoot at one of those units as if it were your Shooting phase, but you must subtract 1 from hit rolls when resolving these shots.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a54e-6d37-c134-efc4",
+    "name": "Drone controller",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "<SEPT> DRONE units within 6\" of any friendly models equipped with a drone controller add one to their hit rolls.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "50f1-ace8-3345-0725",
+    "name": "Counterfire defence system",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A model equipped with a counterfire defence system re-rolls failed hit rolls when firing Overwatch.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "4d48-1d09-dda7-a541",
+    "name": "Advanced targeting system",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A model equipped with an advanced targeting system increases the AP characteristic of all of its weapons by 1 (e.g. an AP of 0 becomes -1, an AP of -1 becomes -2).",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e7a7-ae9f-41eb-6246",
+    "name": "Networked Markerlight",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "43",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "If any attack in the Shooting phase from this model successfully hits its target, regardless of whether it passes its wound roll, it automatically applies a single markerlight counter to the target unit. This ability may only apply a maximum of one Markerlight counter per phase.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "4d28-cb60-b2b6-e1fc",
+    "name": "Photon Casters",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "44",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Any enemy unit that declares a charge against any units that have this ability must reduce its charge range by 2\" for that phase.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7618-f543-d49c-1597",
+    "name": "Nova Reactor (Y'vahra class)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In your Movement phase, you can choose to use the XV109 Y'vahra Battlesuit's nova reactor. If you do so, this model suffers 1 mortal wound. Choose one of the following effects to last until the beginning of your next turn:\n- Overcharged Burst: The Y'vahra can fire using a weapon's Nova Reactor profile.\n- Escape Thrust: At the start of your Movement phase, the Y'vahra may be removed from play and set up in the sky. At the end of your next Movement phase, you may set the Y'vahra anywhere on the battlefield as long as it is more than 9\" away from any enemy unit.\n- Nova Barricade: The Y'vahra's invulnerable save is increased to 3+ against melee attacks.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "ae5e-a73e-8595-fcca",
+    "name": "XV109 Y'vahra Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "The XV109 Y'vahra Battlesuit has a 5+ invulnerable save, increasing to 4+ against any attacks originating from within 12\" or in melee.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "143d-d080-9296-e02f",
+    "name": "Nova Reactor (R'varna class)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "46",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In your Movement phase, you can choose to use the R'varna's nova reactor. If you do so, the R'varna suffers a mortal wound. Choose one of the following effects to last until the beginning of your next turn:\n- Nova Shield: The R'varna increases its invulnerable save to 3+.\n- Electromagnetic Shockwave: Roll a D6 for each enemy unit within 6\" of this model. On a 4+, it suffers D3 mortal wounds.\n- Overcharged Munitions: When firing the pulse submunitions cannon, any dice rolled to determining the number of attacks made may be re-rolled.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e35e-c4f5-fc94-78f6",
+    "name": "R'varna Shield Generator",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "46",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A R'varna Battlesuit has a 5+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "5d53-d6b3-4fb0-db68",
+    "name": "Cluster Shells",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Roll a dice for each enemy model that ends a charge move within 3\" of this model. On a 4+, that model's unit suffers a mortal wound.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "bd0a-ae0d-cef7-48f2",
+    "name": "Barrier Shield Generator",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "The KX139 Ta'unar Supremacy Armour has a 5+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "5e9d-37c2-dd21-2d46",
+    "name": "Towering Colossus",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "The KX139 Ta'unar Supremacy Armour may move over other units provided the do not have the FLY or TITANIC keyword, and so that the model finishes its move at least 1\" away from an enemy model. It may only benefit from a cover save if more than half of the model is obscured. In addition, it may fire at models that are within 1\" of it's base with any non-Macro weaponry.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "5555-0dd2-a44a-64ae",
+    "name": "Vigilance Defence System",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When firing any of Supremacy Armour's smart missile systems or burst cannon as part of an Overwatch attack, any hit rolls of 1 may be re-rolled.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "843b-c56d-c44e-0595",
+    "name": "Shadow Strike",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "During deployment, you may set up the Tetra Scout Speeder Team lurking in the shadows. At the end of any of your Movement phases, they may enter battle - set them up anywhere on the battlefield that is more than 9\" from any enemy model.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "ea2f-e560-0b04-8bd1",
+    "name": "Slaved Targeting Array",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "48",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Both of the TX-42 Piranha's weapons must be fired at the same target.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "65ba-7dc3-1d2e-9e64",
+    "name": "Automatic Targeting Protocols",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "49",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A Heavy Gun Drone may fire both markerlights and other weapons in the same Shooting phase, but in any phase that one or more models in the squadron fire a markerlight, no models in the unit may benefit from any of the Markerlight ability rules.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "aa85-9381-5c6c-0938",
+    "name": "Stealth Protocols",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "52",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "During deployment, you may set the DX6 Remora Stealth Drone Squadron in Stealth mode instead of placing them on the battlefield. At the end of any of your movement phases, they can emerge from Stealth mode - set the unit up anywhere on the battlefield more than 9\" away from any enemy models.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "2e3b-6ff3-27ae-2cc0",
+    "name": "Barracuda Dispersion Field",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "53",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model has a 5+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "21f7-9e0a-acd9-95d7",
+    "name": "Tiger Shark Dispersion Field",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "54,55",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model has a 5+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "08e9-56ce-ef22-cf30",
+    "name": "Hover Jet (Orca Dropship)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "56",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Beofre this model moves in your Movement phase, you can declare it will hover. Its Move characteristic becomes 20\" until the end of the phase, and it loses the Airborne, Hard to Hit and Supersonic abilities until the beginning of your next Movement phase.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e0c4-df4a-af16-52dc",
+    "name": "Immobile",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "58",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This unit cannot move under any circumstances. If this unit is affected by an ability that would normally force a vehicle to move, or renders a vehicle immobile, it takes one mortal wound instead. Successful repair attempts by any friendly model may not grant it the ability to move. During Fight phase, enemy models automatically hit this model - do not roll any dice.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e1a0-bfed-8f5e-7c14",
+    "name": "Positional Relay",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "58",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "At the start of your Shooting phase, select one friendly <SEPT> unit within 3\" of this Remote Sensor Tower. Re-roll all hit rolls of 1 for that unit for the duration of that phase.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "d75d-8c32-ba53-155e",
+    "name": "Automated Tracking",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "58",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When firing Overwatch, Drone Sentry Turrets hit their targets on rolls of 5+, regardless of any other modifiers.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7ce6-3920-7846-6dd5",
+    "name": "Threat Identification",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "58",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In the Shooting phase, Drone Sentry Turrets can only target the nearest enemy unit.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3a0d-bc1c-df09-4b87",
+    "name": "Hover Jet (Manta Dropship)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Beofre this model moves in your Movement phase, you can declare it will hover. Its Move characteristic becomes 20\" until the end of the phase, and it loses the Airborne, Colossal Flyer and Supersonic abilities until the beginning of your next Movement phase.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "4197-3293-87fd-3b8d",
+    "name": "Colossal Flier",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When targeting this model with the shooting attacks and psychic powers, always measure to the model's hull where it would be at tabletop level, even if it is on a flying base. In addition, unless the attacking unit can FLY, add 12\" to the measured distance to determine the range when making shooting attacks against it. Note that this means many short ranged shooting weapons will not be able to hit this model. Your oponent must also subtract 1 from hit rolls for attacks that target this model in the Shooting phase. Also, this vehicle may move and shoot Heavy weapons without any penalty.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e3b5-1598-d61a-99e5",
+    "name": "Energy Shield",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "The Manta Super-heavy Dropship has a 4+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3435-cb58-0bd2-1a63",
+    "name": "Transport Elevator",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Any unit disembarking from a Manta Super-heavy Dropship must be setup on the battlefield within 3\" of the rear exit ramp of the model and not within 1\" of any enemy models - any disembarking models that cannot be set up in this way are slain.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "8475-dd7a-b07a-64f6",
+    "name": "'Eclipse' Shield Generator",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "41",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Shas'o R'alai has a 4+ invulnerable save, increasing to 3+ against attackers more than 12\" away.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "464c-4f9d-8cf5-bbbf",
+    "name": "The Assassin",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "41",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When targeting enemy CHARACTER, Shas'o R'alai may re-roll all failed hit rolls.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "f459-19f1-5568-7e2c",
+    "name": "Upgraded Shield Generator",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "40",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Shas'o R'myr has a 4+ invulnerable save. This is increased to a 3+ invulnerable save against melee weapons.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "ae1b-4160-76ae-72e0",
+    "name": "Vengeance",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "40",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Shas'o R'myr may re-roll failed hit rolls of 1 when targeting ASTRA MILITARUM units.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "5e9e-4fcf-3bd8-593c",
+    "name": "Multi-function Surveyor",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "42",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In the Shooting phase, this unit may activate one of its Survey Protocols. Only one protocol may be activated per phase and per unit of DX-4 Technical Drones.\n* Repair Protocol: Select one friendly unit with the BATTLESUIT keyword within 3\" of the Technical Drone unit and roll a D6. On a roll of 4+, one model in the unit regains D3 wounds.\n* Surveillance Protocol: Select one enemy unit within 12\" of the Technical Drone unit. That unit gains no benefits to its armour save from being in cover until the start of your next turn.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7f1f-584c-679b-45ab",
+    "name": "Stable Platform (Blacklight)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "41",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Blacklight Marker Drones do not suffer the penalty for moving and firing Heavy weapons.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "b2b2-3ee6-f6f0-cb42",
+    "name": "Titan Hunter",
+    "publicationId": "c0bb-c0cd-pubN142484",
+    "page": "",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model may fire Macro weapons even if it has moved this turn.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "ccf2-d438-33ed-7998",
+    "name": "Remora Targeters",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "52",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This unit does not suffer the penalty to its hit rolls for moving and firing Heavy weapons.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "acfc-7fa6-521e-11b7",
+    "name": "MV52 Shield Generator (XV107/XV109)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,46",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "MV52 Shield Drones have a 3+ invulnerable save. In addition, roll a D6 each time a DRONE with this ability loses a wound; on a 5+ that Drone does not lose a wound.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "c613-5755-936a-3a7d",
+    "name": "MV52 Shield Generator",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "90",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "MV52 Shield Drones have a 3+ invulnerable save. In addition, roll a D6 each time a DRONE with this ability loses a wound; on a 5+ that Drone does not lose a wound.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7f61-c2ab-2e48-eecf",
+    "name": "Fire Caste Exemplar",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "97",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "You can add 1 to hit rolls in the Shooting phase for friendly T'AU SEPT HAMMERHEADS within 6\" of Longstrike.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "1803-567f-8527-b8de",
+    "name": "Shield generator (Drone)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "109",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A model with a shield generator has a 4+ invulnerable save. In addition, roll a D6 each time a DRONE with this ability loses a wound; on a 5+ that Drone does not lose a wound.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "4f49-8215-215c-5624",
+    "name": "Hard to Hit (Tiger Shark AX-1-0)",
+    "publicationId": "c0bb-c0cd-pubN142484",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Your opponent must subtract 1 from all hit rolls for attacks that target this model in the shooting phase. In addition, if the Tiger Shark AX-1-0 advances, it may only be affected by weapons of the Heavy and Macro type.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "fde9-1c60-7290-286f",
+    "name": "5. Exemplar of the Kauyon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "131",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "You can re-roll failed hit rolls for your Warlord as long as they have not moved this turn. If they have moved for any reason, they lose this trait until the start of the next turn.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "08e6-ba21-0cc4-92ed",
+    "name": "6. Exemplar of the Mont'ka",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "131",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Your Warlord can Advance and still shoot as if they hadn't Advanced this turn.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "57ff-3c29-7d00-0a56",
+    "name": "XV8-02 Crisis Iridium battlesuit",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A model equipped with an XV8-02 Iridium Crisis battlesuit increases its Save characteristic to 2+.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a466-b700-0df7-acca",
+    "name": "XV02 Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "97",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Longstrike's Gunship treats the number of markerlight counters on an enemy unit affected by the Markerlights ability as being 1 higher.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "0368-e9a4-e141-68bc",
+    "name": "Threat Identification Protocols",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "97,108,109,112-114",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In the Shooting phase, Gun Drones can only target the nearest visible enemy unit. If two units are equally close, you may choose which is targeted.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "b75d-ca13-3bfd-1feb",
+    "name": "Guardian Field",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Guardian Drones have a 5+ invulnerable save. Breacher Teams within 3\" of any friendly Guardian Drone have a 5+ invulnerable save. Strike Teams within 3\" of any friendly Guardian Drone have a 6+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "b981-93e2-e804-960d",
+    "name": "Plunge from the Sky",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "110",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "During deployment, you can set up this unit high in the sky, instead of placing them on the battlefield. If you do so, they can plunge from the sky at the end of any of your Movement phases - set it up anywhere that is more than 9\" from any enemy models.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "f128-49d4-8a08-55d2",
+    "name": "DS8 Tactical Support Turret",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Tactical Support Turrets are not set up when the unit is set up. Instead, once per game, at the end of any of your Movement phases, you can set up the Tactical Support Turret within coherency of its unit and more than 2\" away from any enemy models.  The turret cannot move for any reason, and is destroyed if its unit moves out of unit coherency with it. The destruction of a Tactical Support Turret is ignored for the purposes of Morale tests.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "9442-5401-cd9d-9aa8",
+    "name": "Bonding Knife Ritual",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99,102-104,107,111",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "If you roll a 6 when taking a Morale test for this unit, the test is automatically passed.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "be74-e60e-48a1-f05e",
+    "name": "Pulse Accelerator",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Whilst a T'AU EMPIRE INFANTRY unit is within 3\" of any friendly Pulse Accelerator Drones, increase the Range characteristic of that unit's pulse pistols, pulse carbines and pulse rifles by 6\".",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e17c-8443-8106-ce21",
+    "name": "Gravity Wave Projector",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Enemy units beginning a charge move within 12\" of any Grav-Inhibitor Drones reduce their charge distance by D3\".",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "9336-8c2a-c8f2-fbc2",
+    "name": "Recon Suite",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Units making saves against attacks made by a Pathfinder Team that is within 3\" of a friendly Recon Drone do not gain any bonus to their saving throws for being in cover.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "0090-7776-c531-10b8",
+    "name": "Vanguard",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96, 107",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "At the start of the first battle round but before the first turn begins, you can move this unit up to 7\". It cannot end this move within 9\" of any enemy models. If both players have units that are able to move at the start of the first battle round but before the first turn begins, the player who is taking the first turn moves their units first.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "b80c-72c0-f503-00e1",
+    "name": "Sniper Drone Stealth Field",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "113",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Subtract 1 from hit rolls in the Shooting phase for attacks made against this unit unless it is within 12\" of the firing model.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e5a6-3a23-52a7-d531",
+    "name": "Drone Uplink",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "104",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "You can add 1 to hit rolls for <SEPT> MV71 Sniper Drones in the Shooting phase when they attack a unit visible to a friendly <SEPT> Firesight Marksman.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "5fa2-64f5-8b8f-e82a",
+    "name": "Marksman Stealth Field",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "104",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model adds 2 rather than 1 to its saving throws when benefiting from cover.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "dc70-57f8-1716-dd18",
+    "name": "Turret Mounting",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "114",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Units attacked by a Devilfish with an MB3 Recon Drone embarked within it do not gain any bonus to their saving throws for being in cover.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3203-e74a-5723-202e",
+    "name": "Tank Ace",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "97",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "You can add 1 to wound rolls for Longstrike's Gunship when it shoots at a VEHICLE or MONSTER.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7853-b796-ce3f-4d68",
+    "name": "Stabilising Anchors",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "120",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A Stormsurge may deploy its anchors at the end of your Shooting phase. While its anchors are deployed it may not move for any reason and it cannot pile in and attack in the Fight phase, but you can add 1 to its hit rolls. The Stormsurge can retract its anchors at the beginning of any of your Movement phases, and can then move, shoot and fight normally.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3e92-78be-b045-fe2c",
+    "name": "Walking Battleship",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "120",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model can Fall Back in the Movement phase and still shoot and/or charge in the same turn. When this model Falls Back, it can move over enemy INFANTRY models, though it must end its move more than 1\" from any enemy units. In addition, this model can move and fire Heavy weapons without suffering a penalty to its hit rolls. Finally, this model only  gains a bonus to its save for being on or within cover if at least half of the model is obscured from the firer.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "0a7b-db42-3718-c5fd",
+    "name": "Ghostkeel Electrowarfare Suite",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "105",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Your opponent must subtract 1 from hit rolls for models attacking this model from more than 6\" away.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "2579-03ef-7e92-e7fa",
+    "name": "Stealth Field",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "105",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Models shooting at a Stealth Drone or an XV95 GHOSTKEEL BATTLESUIT within 3\" of any friendly Stealth Drones subtract 1 from their hit rolls. (This is cumulative with the Ghostkeel Electrowarfare Suite ability.)",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "1bb1-906b-14d2-4225",
+    "name": "Riptide Shield Generator",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "106",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model has a 5+ invulnerable save.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "9281-195b-f79d-4ed8",
+    "name": "Nova Reactor",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "106",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In your Movement phase you can choose to use this model's Nova Reactor. If you do, this model suffers a mortal wound. Choose one of the following effects to last until the beginning of your next turn:\n* Nova Shield: This model has a 3+ invulnerable save.\n* Boost: This model can move 2D6\" in your charge phase (even if it doesn't declare a charge). You cannot use this ability to move within 1\" of any enemy models.\n* Nova-charge: Choose for either of this model's heavy burst cannon Type to change to Heavy 18, or its ion accelerator Type (both standard and overcharge) to change to Heavy 6.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a43b-58b7-9876-9706",
+    "name": "Pulse Bombs",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "116",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "This model may drop a pulse bomb as it flies over enemy units in its Movement phase. To do so, after this model has moved, target one enemy unit that it moved across. Then, roll a D6 for each model in that unit (up to a maximum of 10), adding 1 to the result if the enemy model is INFANTRY. For each roll of 5+, the target unit suffers 1 mortal wound.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3884-2cd4-f684-e35a",
+    "name": "Stealthy Hunters",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "100",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "At the start of the first battle round but before the first turn begins, you can move this unit up to 7\". It cannot end this move within 9\" of any enemy models. If both players have units that are able to move at the start of the first battle round but before the first turn begins, the player who is taking the first turn moves their units first.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3ecf-bf1f-4e2b-869c",
+    "name": "Agile Brute",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "101",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When this unit Advances, add 6\" to its Move for that Movement phase instead of rolling a D6.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "6ab2-30ba-e28e-ea5f",
+    "name": "Voracious Predators",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "110",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "You can re-roll failed charge rolls for this unit when targeting a unit that has suffered any unsaved wounds this turn.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7840-1083-714d-3897",
+    "name": "Sworn Protectors",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "104",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Roll a D6 each time a friendly <SEPT> CHARACTER loses a wound whilst they are within 3\" of this unit. On a 2+, a model from this unit can intercept that hit - the CHARACTER does not lose a wound but this unit suffers a mortal wound.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "7478-a264-7f7d-04ec",
+    "name": "Homing beacon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "102",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A homing beacon may be used at the start of your Movement phase by placing it within 1\" of its unit. If there are any friendly homing beacons on the battlefield at the end of your Movement phase, one of your <SEPT> units that has been set up in a Manta hold can perform a low-altitude drop instead of a Manta strike. Set up the unit wholly within 6\" of the homing beacon. The homing beacon then shorts out and is removed from the battlefield. Homing beacons are deactivated and removed from the battlefield if an enemy model ends a move within 9\" of it.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "962f-5767-af1f-31d9",
+    "name": "Camouflage Fields",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "102",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Your opponent must subtract 1 from all hit rolls for attacks that target this unit.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "3bbf-c98a-3b56-d2a4",
+    "name": "The Shaper Commands",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "101",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Re-roll wound rolls of 1 for friendly KROOT units within 6\" of this model.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "9276-1b5b-109c-32b7",
+    "name": "Wisest of Their Kind",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "101",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "KROOT units within 6\" of a friendly Kroot Shaper may use the Shaper's Leadership characteristic instead of their own when taking Morale tests.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "b21d-2b95-7a43-1500",
+    "name": "Open-topped",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117-119",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Models embarked on this model can attack in their Shooting phase. Measure the range and draw line of sight from any point on this model. When they do so, any restrictions or modifiers that apply to this model also apply to its passengers; for example, the passengers cannot shoot if this model has Fallen Back in the same turn and so on. Note that the passengers cannot shoot (except with Pistols) if this model is within 1\" of an enemy unit, and so on, even though this model itself can.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a341-7d9b-b950-e289",
+    "name": "Mobile Defence Platform",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117-119",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "If a friendly T'AU EMPIRE INFANTRY unit is embarked on a Tidewall at the beginning of your Movement phase, you may move it in the Movement phase. A Tidewall cannot Advance or charge.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e1c5-02b3-b9bb-f83d",
+    "name": "Automated Weapon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "119",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Unless a friendly T'AU EMPIRE INFANTRY unit is embarked on this model, its supremacy railgun can only target the nearest visible enemy. If two units are equally close, you may choose which is targeted.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e2ef-269f-8ab5-9b20",
+    "name": "Fortification",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117-119",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A Tidewall cannot move independently, nor can it fight in the Fight phase. Enemy models automatically hit this model in the Fight phase - do not make hit rolls. However, this model can still shoot if there are enemy models within 1\" of it, and friendly units can still target enemy units that are within 1\" of this model.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "c8a2-aa8f-c08d-319e",
+    "name": "Drone Control Systems",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "118",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When you set up a Tidewall Droneport, you can also set up a unit of up to 4 Tactical Drones in the slots in the Droneport. These Drones begin the battle fully automated - if able to, they must shoot in each of your Shooting phases at the nearest enemy unit to the Droneport that is visible to it. If there is a friendly T'AU EMPIRE INFANTRY unit embarked on the Droneport at the beginning of your Movement phase, you can take control of the Drones, which then detach from the Droneport and act as a separate unit. In addition, while a friendly T'AU EMPIRE INFANTRY unit is embarked on the Droneport, the Tactical Drones activated this way can use that unit's Ballistic Skill instead of their own when making shooting attacks. If the Droneport is destroyed before the Drones are activated, they are destroyed as well.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "5380-3b12-fe9e-d460",
+    "name": "Tidewall Network",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When a Tidewall Shieldline that includes a Tidewall Defence Platform is set up on the battlefield, both models are placed within 1\" of each other. From that point onwards, both are treated as separate units.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "b145-5884-ed72-11ec",
+    "name": "Tidewall Field",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "A Tidewall Shieldline can reflect shots back at the enemy. For each unmodified save roll of 6 you make in the Shooting phase for a Tidewall Shieldline, the attacking unit suffers one mortal wound after they have finished shooting.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "c40c-4ee4-7184-d483",
+    "name": "Failure Is Not An Option",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "T'AU EMPIRE units within 6\" of a friendly ETHEREAL may use the Ethereal's Leadership characteristic instead of their own when taking Morale tests.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "069e-bc12-1bba-fb8b",
+    "name": "Blademaster",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "95",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "At the beginning of each Fight phase, choose one of the following effects to last until the end of the phase:  - Aun'Shi's close combat attacks have AP-2. - Re-roll failed invulnerable saves for Aun'Shi.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "cc06-c994-7dd8-17a7",
+    "name": "Invocation of the Elements",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94,95",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In your Movement phase, an ETHEREAL may invoke one of the elemental powers below. All friendly T'AU EMPIRE INFANTRY and BATTLESUIT units within 6\" of the model invoking an elemental power gains the relevant benefit until the start of your next turn. A unit can only be affected by the same elemental power once per battle round.\n* Calm of Tides: Subtract 1 from any Morale tests made for affected units.\n* Storm of Fire: Re-roll hit rolls of 1 in the Shooting phase for affected units that remain stationary in the Movement phase.\n* Sense of Stone: Whenever a model in an affected unit loses a wound, roll a D6; on a 6, that model does not lose that wound.\n* Zephyr's Grace: You can re-roll the dice for affected units when they Advance.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "e778-ea88-a8c5-5024",
+    "name": "Grand Invocation of the Elements",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In your Movement phase, Aun'va may invoke up to two elemental powers. All T'AU EMPIRE INFANTRY and BATTLESUIT units within 6\" of the model invoking an elemental power gain the relevant benefit until the start of your next turn. A unit can only be affected by the same elemental power once per battle round.\n* Calm of Tides: Subtract 1 from any Morale tests made for affected units.\n* Storm of Fire: Re-roll hit rolls of 1 in the Shooting phase for affected units that remain stationary in the Movement phase.\n* Sense of Stone: Whenever a model in an affected unit loses a wound, roll a D6; on a 6, that model does not lose that wound.\n* Zephyr's Grace: You can re-roll the dice for affected units when they Advance.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "69f7-be5e-b59f-2ca8",
+    "name": "Supreme Loyalty",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Whilst Aun'Va is on the battlefield, you can re-roll Morale tests for all friendly T'AU EMPIRE units.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "a4d6-3ec9-6efb-f85e",
+    "name": "Paradox of Duality",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When this unit is attacked during the Shooting phase, it may add, rather than subtract, the AP of the attack to its Save characteristic (e.g. an AP-1 attack would provide a +1 bonus to its saves).",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "ee5c-5d53-6545-820e",
+    "name": "Structural Analyser",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "In your Shooting phase, pick a friendly T'AU SEPT INFANTRY unit within 6\" of Darkstrider, and pick an enemy unit that is visible to Darkstrider. Until the end of the phase, add 1 to wound rolls made for the friendly T'AU SEPT INFANTRY unit's attacks that target the enemy unit you picked.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "6b11-29a5-e421-0a49",
+    "name": "Fighting Retreat",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Friendly T'AU SEPT INFANTRY units within 6\" of Darkstrider in the Shooting phase may attack with ranged weapons even if they Fell Back this turn.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "50e6-fdbf-c3b7-5892",
+    "name": "Volley Fire",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Models in <SEPT> units within 6\" of any friendly <SEPT> Cadre Fireblades may fire an extra shot with pulse pistols, pulse carbines and pulse rifles when shooting at a target within half the weapon's range.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "02f2-adda-f001-b312",
+    "name": "Master of War",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "89",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Once per battle, at the beginning of your turn, a single COMMANDER from your army can declare either Kauyon or Mont'ka:\n* Kauyon: On a turn in which you declare Kauyon, at the start of your Movement phase, you can select any friendly <SEPT> units that are within 6\" of the <SEPT> COMMANDER. Until the end of the turn, the selected units cannot move for any reason, but you can re-roll failed hit rolls for attacks made by these units.\n* Mont'ka: Friendly <SEPT> units within 6\" of the COMMANDER can both Advance and shoot as if they hadn't moved this turn.  Unless stated otherwise, you can only use Master of War ability once per battle, irrespective of how many models in your army have this ability.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "1f4d-b8cf-598a-2199",
+    "name": "Coldstar",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "93",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "When this model Advances, add 20\" to its Move characteristic for that Movement phase instead of rolling a D6.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "ce17-550d-f5c2-9fe8",
+    "name": "Stable Platform",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "109",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "Marker Drones do not suffer the penalty for moving and firing Heavy weapons.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  },
+  {
+    "id": "06a9-8595-ef27-5941",
+    "name": "Aggressive Footing",
+    "publicationId": "4593-a2f0-546a-d6f2",
+    "page": "50",
+    "hidden": "false",
+    "typeId": "72c5eafc-75bf-4ed9-b425-78009f1efe82",
+    "typeName": "Abilities",
+    "characteristics": [
+      {
+        "value": "[All FARSIGHT ENCLAVES units in FARSIGHT ENCLAVES Detachments gain the Aggressive Footing ability:]\nWhen resolving an attack made with a ranged weapon by a model in this unit against an enemy unit within 12\", treat that enemy unit as having one more markerlight counter than it actually has.",
+        "type": "Description",
+        "typeId": "21befb24-fc85-4f52-a745-64b2e48f8228"
+      }
+    ]
+  }
+]

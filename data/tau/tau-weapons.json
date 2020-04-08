@@ -1,0 +1,3518 @@
+[
+  {
+    "id": "faa7-b687-49e0-1866",
+    "name": "Supremacy railgun",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each time you make a wound roll of 6+ for this weapon, the target unit suffers D3 mortal wounds in addition to the normal damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "2e5f-6722-ec3f-cfec",
+    "name": "Smart missile system",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon can be fired at units that are not visible to the bearer. Units attacked by this weapon do not gain any bonus to their saving throws for being in cover.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "67e7-0e29-d015-f63f",
+    "name": "Seeker missile",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each seeker missile can only be used once per battle. This weapon only hits on a roll of 6, regardless of the firing model's Ballistic Skill or any modifiers.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "161d-55df-28b1-f7d6",
+    "name": "Ritual blade",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "User",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If any enemy models are destroyed by this weapon, friendly KROOT units within 6\" of the bearer do not have to take Morale tests in the Morale phase at that turn.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "92a1-743d-3b4f-35f1",
+    "name": "Ripping fangs",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "User",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "9e4f-46f1-3c99-c23d",
+    "name": "Railgun (Submunitions)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "ece3-79b5-20dc-bf69",
+    "name": "Railgun (Solid shot)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each time you make a wound roll of 6+ for this weapon, the target unit suffers D3 mortal wounds in addition to the normal damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e5a6-bf7b-e4f1-86c1",
+    "name": "Rail rifle",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "For each wound roll of 6+ made for this weapon, the target unit suffers a mortal wound in addition to the normal damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "4a81-465e-440f-dd38",
+    "name": "Quad ion turret (Standard)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Add 1 to hit rolls for this weapon against targets that can't FLY.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "2d6b-fcec-b002-7197",
+    "name": "Quad ion turret (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Add 1 to hit rolls for this weapon against targets that can't FLY. If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "9b19-f1d8-3531-4035",
+    "name": "Pulse rifle",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "5a5c-05c8-ed37-a125",
+    "name": "Pulse pistol",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Pistol 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "96e0-8db2-e978-e9e7",
+    "name": "Pulse driver cannon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "dd74-2375-6d99-062c",
+    "name": "Pulse carbine",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "64c7-3e9d-b80d-f9f9",
+    "name": "Pulse blaster (2 Medium range)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "10\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "b8b8-d031-f794-44fe",
+    "name": "Pulse blaster (3 Long range)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "15\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "d5ad-ced7-df70-e134",
+    "name": "Pulse blaster (1 Close range)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "5\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "fd68-b47d-3bfa-8059",
+    "name": "Pulse blastcannon (2 Medium range)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "20\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "12",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "4",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "cd90-7856-15be-8ace",
+    "name": "Pulse blastcannon (3 Long range)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "b221-a793-2d62-a8be",
+    "name": "Pulse blastcannon (1 Close range)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "122",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "10\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "14",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "d8fc-4159-adaa-a2fd",
+    "name": "Plasma rifle",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "88da-c6a8-d656-a579",
+    "name": "Photon grenade",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Grenade D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon does not inflict any damage. Your opponent must subtract 1 from any hit rolls made for INFANTRY units that have suffered any hits from photon grenades until the end of the turn.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "ba36-2a50-8927-4024",
+    "name": "Neutron blaster",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "2dc9-9f2a-2df8-6eaf",
+    "name": "Missile pod",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "eed7-9854-6a1f-da0a",
+    "name": "Markerlight",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "-",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "See Markerlights (rule).",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "4193-182e-f601-fa13",
+    "name": "Longshot pulse rifle",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "48\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon may target a CHARACTER even if they are not the closest enemy unit. If you make a wound roll of 6+ for this weapon, it inflicts a mortal wound on the target in addition to its normal damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "cbd5-db98-30af-a8f0",
+    "name": "Krootox fists",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "User",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "425c-3fb5-6051-ae34",
+    "name": "Kroot rifle (shooting)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "d330-6d92-3db9-3c70",
+    "name": "Kroot rifle (melee)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "+1",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "c091-608c-156e-ea6e",
+    "name": "Kroot gun",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "48\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid FIre 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "53c0-86bb-7fe2-5883",
+    "name": "Ion rifle (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "3d89-cde4-38a1-13f4",
+    "name": "Ion rifle (Standard)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "38e1-f831-a82d-ed18",
+    "name": "Ion cannon (Standard)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "fb55-a1ee-31a2-828d",
+    "name": "Ion cannon (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "2ceb-c98f-a2d2-4b06",
+    "name": "Ion accelerator (Standard)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "d658-4509-56e8-99e1",
+    "name": "Ion accelerator (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "9",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "fa85-f362-0f20-5688",
+    "name": "Honour blade",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "+2",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "07ec-d5fe-a818-9c94",
+    "name": "High-yield missile pod",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e756-9f0a-a36b-9827",
+    "name": "High-output burst cannon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 8",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "25da-fd30-ac25-de23",
+    "name": "Heavy rail rifle",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "For each wound roll of 6+, the target unit suffers a mortal wound in addition to the normal damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "bee2-7cd3-c740-7c51",
+    "name": "Swiftstrike burst cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "53,54,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 8",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "4d98-429c-ce33-3002",
+    "name": "Fusion collider",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "3d8d-797d-b2c3-d641",
+    "name": "Fusion blaster",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "9195-9dbd-a2fd-b7d9",
+    "name": "Flamer",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon automatically hits its target.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "43f2-6b9e-540f-c237",
+    "name": "Equalisers",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "123",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "User",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "A model armed with equalisers increases its Attacks characteristic by 1.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "c98f-b0c1-d66e-5175",
+    "name": "Destroyer missile",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "A unit hit by this weapon suffers D3 mortal wounds. Each destroyer missile can only be used once per battle. This weapon only hits on a roll of 6, regardless of the firing model's Ballistic Skill or any modifiers.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "3ccd-77b1-883d-3a96",
+    "name": "Cyclic ion raker (Standard)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e65f-b66a-40fd-f751",
+    "name": "Cyclic ion raker (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "feb0-ca85-7ed4-dce1",
+    "name": "Cyclic ion blaster (Standard)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e067-4e06-9787-d8ba",
+    "name": "Cyclic ion blaster (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If you roll one or more hit rolls of 1, the bearer's unit suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e9b1-5593-7e88-9771",
+    "name": "Cluster rocket system",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "48\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 4D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "1779-86ba-2fc4-8e36",
+    "name": "Burst cannon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "eef1-4803-d3ef-a188",
+    "name": "Airbursting fragmentation projector",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon can target units that are not visible to the bearer.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "7742-d8fd-4fb6-5169",
+    "name": "Fletchette pod (shooting)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Pistol D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "6c81-4c33-cc3d-132c",
+    "name": "Double-barelled burst cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "44,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 8",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "874f-756e-907a-cb1b",
+    "name": "Double-barelled plasma rifle",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "40,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Rapid Fire 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "c41b-26ad-b888-54ec",
+    "name": "Fusion cascade",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "44,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "d6b9-b656-293a-9e84",
+    "name": "Heavy rail cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,55,57,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "120\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Macro 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "18",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-5",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each wound roll of 6+ made for this weapon inflicts an additional D3 mortal wounds in addition to any other damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "1340-2762-3ea6-171e",
+    "name": "High intensity markerlight",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "48,58,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 1",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "-",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "A hit from a high intensity markerlight causes no damage, but allows 3 markerlight counters to be placed on the target unit.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "8926-5187-242e-a078",
+    "name": "Ionic discharge cannon (Nova reactor)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "When targeting this enemy VEHICLE, the target suffers D3 mortal wounds in addition to all other damage for each wound roll of 6+ made for this weapon.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e2df-e9c3-e032-68e3",
+    "name": "Ionic discharge cannon (Standard)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "When targeting this enemy VEHICLE, the target suffers a mortal wound in addition to all other damage for each wound roll of 6+ made for this weapon.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "e57a-6ed2-c91b-977f",
+    "name": "Long-barelled burst cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "52,53,56,57,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "1626-27bd-bb24-c2db",
+    "name": "Nexus meteor missile system",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"-120\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Macro 2D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "4",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon may not target enemy units within 24\" of the bearer.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "3639-f272-0894-5f55",
+    "name": "Phased ion gun",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "44,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Any hit toll of 6 made for this weapon is resolved at AP -4 instead of AP -1.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "b4d6-4c0e-6389-a20d",
+    "name": "Phased plasma-flamer (Nova reactor)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon hits its target automatically.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "1277-a84f-1fbe-aa50",
+    "name": "Phased plasma-flamer (Standard)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 2D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "This weapon hits its target automatically.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "6913-18db-04a3-74ad",
+    "name": "Pulse ordnance multi-driver (Concentrated bombardment)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Macro 6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "12",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "4",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "2fbc-5716-8947-add4",
+    "name": "Pulse ordnance multi-driver (Pattern bombardment)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Macro 2D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "de58-5f1a-397b-325e",
+    "name": "Pulse submunitions cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "46,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "d744-56a7-d551-a778",
+    "name": "Pulse submunitions rifle",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "44,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "30\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "ed2a-f048-071f-bc27",
+    "name": "Fusion eradicator",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,90",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 5",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "92e5-dd73-9e60-a0d2",
+    "name": "Tri-axis ion cannon (Coherent beam)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "43ae-5ccc-9432-2f26",
+    "name": "Tri-axis ion cannon (Standard)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "60\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 9",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "00ab-1872-0bf2-495a",
+    "name": "Crushing feet",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47,92",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "User",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Make three hits for each attack made with this weapon.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "16b2-6ecc-5efe-2fd8",
+    "name": "Twin T'au plasma cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "51,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "48\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 4",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-3",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "ee18-c030-32f1-8566",
+    "name": "Twin fusion cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "51,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "24\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "826a-d973-15ec-c065",
+    "name": "Twin swiftstrike burst cannon",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "51,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 16",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "6a83-da2d-7926-60d2",
+    "name": "Swiftstrike railgun",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "53,54,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each wound roll of 6+ made for this weapon inflicts a single mortal wound in addition to all other damage.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "4519-55c1-2d57-b5b2",
+    "name": "Skyspear missile rack",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "54,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "72\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D6",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "94fa-de63-87a4-0fb5",
+    "name": "Heavy burst cannon",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "121",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "36\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 12",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-1",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "98d5-f6f7-0911-a3cf",
+    "name": "Fusion blades (Melee)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "133",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each time the bearer fights, it can make two (and only two) attacks with this weapon.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "6071-da2a-b759-f413",
+    "name": "Fusion blades (Ranged)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "133",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Assault 2",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the target is within half the weapon's range, roll two dice when inflicting damage and discard the lowest result.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "6049-74b7-8317-7ed8",
+    "name": "Onager gauntlet",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "132",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "10",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-4",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "D6",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Each time the bearer fights, it can make one (and only one) attack with this weapon.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "6bc7-6d1d-e2e1-4475",
+    "name": "Fletchette pod (melee)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45,92",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "Melee",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Melee",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "0",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "1",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "If the number of models within 1\" of the model is greater than its Attack characteristic, it uses that number instead when making a melee attack.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "4a0c-e0ad-269c-d9cf",
+    "name": "Long-barelled ion cannon (Standard)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "96\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy 3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "2",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "-",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  },
+  {
+    "id": "923a-77e8-1ab6-28aa",
+    "name": "Long-barelled ion cannon (Overcharge)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57,91",
+    "hidden": "false",
+    "typeId": "d5f97c0b-9fc9-478d-aa34-a7c414d3ea48",
+    "typeName": "Weapon",
+    "characteristics": [
+      {
+        "value": "96\"",
+        "type": "Range",
+        "typeId": "6fa97fa8-ea74-4a27-a0fb-bc4e5f367464"
+      },
+      {
+        "value": "Heavy D3",
+        "type": "Type",
+        "typeId": "077c342f-d7b9-45c6-b8af-88e97cafd3a2"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "59b1-319e-ec13-d466"
+      },
+      {
+        "value": "-2",
+        "type": "AP",
+        "typeId": "75aa-a838-b675-6484"
+      },
+      {
+        "value": "3",
+        "type": "D",
+        "typeId": "ae8a-3137-d65b-4ca7"
+      },
+      {
+        "value": "Change the weapon's Type to Heavy 2D3 against units containing 10 or more models. If you roll one or more hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved.",
+        "type": "Abilities",
+        "typeId": "837d-5e63-aeb7-1410"
+      }
+    ]
+  }
+]

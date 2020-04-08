@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "c782-7940-e7aa-cef8",
+    "name": "MV1 Gun Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "97,108,109,112-114",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "1607-ce9a-580e-039c",
+    "name": "MV4 Shield Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "109",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "08eb-edc0-eb3e-1aab",
+    "name": "MV7 Marker Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "109",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "986a-40f1-e70d-0440",
+    "name": "Vespid Stingwing",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "110",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "14\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "4+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "5",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9bea-7a36-0e8d-e9d8",
+    "name": "Vespid Strain Leader",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "110",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "14\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "4+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "3639-b7af-f942-49c8",
+    "name": "Fire Warrior",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "73ce-ff78-af2d-699a",
+    "name": "Fire Warrior Shas'ui",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "3cc6-a5d7-6917-2fc8",
+    "name": "MV36 Guardian Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "e259-39ca-7631-73c9",
+    "name": "DS8 Tactical Support Turret",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "98,99",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "-",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "0",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "4",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9566-eb1e-3d78-179d",
+    "name": "MV31 Pulse Accelerator Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "854f-e69f-f3d5-2d76",
+    "name": "MV33 Grav-inhibitor Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "6b77-33d2-67f8-0b13",
+    "name": "MB3 Recon Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "2",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "b25d-3ec5-a97b-6acd",
+    "name": "MV17 Interceptor Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "116",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "20\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "3dfe-c582-a663-cecb",
+    "name": "MV84 Shielded Missile Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "106",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "e81d-4c64-657a-56af",
+    "name": "MV71 Sniper Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "113",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "8095-bed3-e9e0-f6d2",
+    "name": "MV5 Stealth Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "105",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "7af6-10b9-d6d2-555a",
+    "name": "MV8 Missile Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "111",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "54dc-60ab-e29f-b710",
+    "name": "MV52 Shield Drone",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "90",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "b5a1-b090-3713-9d03",
+    "name": "Firesight Marksman",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "104",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "5\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "3+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "a609-e97d-7eca-8415",
+    "name": "TX4 Piranha",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "108",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "16\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "e31f-67e6-581a-dab4",
+    "name": "TY7 Devilfish",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "114",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "12",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "2c1b-5fef-898b-3d15",
+    "name": "Longstrike",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "97",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "13",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "434d-c5fc-ee01-7a35",
+    "name": "TX7 Hammerhead Gunship",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "112",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "13",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "4044-9438-8ae8-c5c9",
+    "name": "TX78 Sky Ray Gunship",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "113",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "13",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "d3d0-ffe1-1fc6-1c49",
+    "name": "KV128 Stormsurge",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "120",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "*",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "20",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "f96e-c74a-dde6-60cf",
+    "name": "XV95 Ghostkeel Shas'vre",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "105",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "10",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "0c9a-46c1-a71c-f67b",
+    "name": "Crisis Shas'ui",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "103,104",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9c28-d205-aa08-4ec2",
+    "name": "Crisis Shas'vre",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "103,104",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "10ee-fb1c-9d5d-8229",
+    "name": "Broadside Shas'ui",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "111",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "5\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "2+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "071d-1c3a-59c6-36b6",
+    "name": "Broadside Shas'vre",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "111",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "5\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "2+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "2721-d55e-c098-be60",
+    "name": "Stealth Shas'ui",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "102",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "2",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "6ce3-39d2-44f2-75f2",
+    "name": "Stealth Shas'vre",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "102",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "2",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "fdd6-a9c4-c292-8aae",
+    "name": "XV104 Riptide Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "106",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "14",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "2+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9d4e-d3b5-6105-a863",
+    "name": "AX3 Razorshark Strike Fighter",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "115",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "12",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "ee5a-e77e-44ca-74ea",
+    "name": "AX39 Sun Shark Bomber",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "116",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "12",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "5090-1951-aa8d-c188",
+    "name": "Kroot",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "100",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "7\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "6+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "ae8c-d9bb-3fef-6c78",
+    "name": "Krootox Rider",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "101",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "7\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "4",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "6+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "0cb2-5981-d446-9fe7",
+    "name": "Kroot Hound",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "110",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "12\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "-",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "5",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "6+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9a4a-378f-8daf-a1bf",
+    "name": "Tidewall Gunrig",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "119",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "10",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "-",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "-",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "408d-93ae-35a0-50c0",
+    "name": "Tidewall Droneport",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "118",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "-",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "10",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "-",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "-",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9109-0792-c77b-1429",
+    "name": "Tidewall Shieldline",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "-",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "10",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "-",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "-",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "df26-ab29-1523-53bd",
+    "name": "Tidewall Defence Platform",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "-",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "10",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "-",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "-",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "3a5d-86b8-546a-01ca",
+    "name": "Kroot Shaper",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "101",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "7\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "5",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "6+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "4976-01d5-c950-61dd",
+    "name": "Commander in XV86 Coldstar Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "93",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "20\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "0ef2-2668-6edb-95a1",
+    "name": "Cadre Fireblade",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "5",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "c301-1174-2501-d7e4",
+    "name": "Ethereal",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "4",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "5+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "11da-6274-d0a4-1800",
+    "name": "Darkstrider",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "96",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "7\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "5",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "5+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "6caa-f314-9557-a69e",
+    "name": "Aun'va",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "2",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "5+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "2a68-010e-c6ea-a0de",
+    "name": "Ethereal Guard",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "94",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "3+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "2",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "5+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "4d4b-7f4d-d712-c78e",
+    "name": "Aun'Shi",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "95",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "6\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "2+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "5",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "5",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "-",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "b23e-7365-7adb-56a8",
+    "name": "Commander Farsight",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "91",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "2+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "8aee-6b1f-4ae3-024f",
+    "name": "Pathfinder",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "7\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "5+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "7481-4ec7-1a4e-4a89",
+    "name": "Pathfinder Shas'ui",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "107",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "7\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "3",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "5+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "c277-d471-37c8-1889",
+    "name": "Shas'o R'alai",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "41",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "8",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "30b4-4459-b229-ad37",
+    "name": "Shas'o R'myr",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "40",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "8461-c4ff-7f28-6c31",
+    "name": "Commander in XV81 Crisis Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "42",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "8379-1442-7e74-1721",
+    "name": "Commander in XV84 Crisis Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "43",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "8308-dd90-060e-1066",
+    "name": "XV9 Hazard Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "44",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "5",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "67e6-4abf-9c39-3980",
+    "name": "XV109 Y'vahra Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "45",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "14",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "2+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9806-9e00-f565-73ac",
+    "name": "XV107 R'varna Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "46",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "8",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "15",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "2+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "65f0-fdec-b6ca-c6e0",
+    "name": "KX139 Ta'unar Supremacy Armour",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "47",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "4+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "8",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "30",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "*",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "c549-9f85-4c08-6f6e",
+    "name": "Tetra Scout Speeder",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "48",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "18\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "4",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "7da1-2e20-2715-38ca",
+    "name": "TX-42 Piranha",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "48",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "16\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "7",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "1155-b1f4-cb36-d000",
+    "name": "Heavy Gun Drone",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "49",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "8ad4-dee2-d2ae-1908",
+    "name": "DX6 'Remora' Stealth Drone",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "52",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "20\"-30\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "4",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "2",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "e93a-e849-5387-ee86",
+    "name": "Barracuda AX-5-2",
+    "publicationId": "d748-c32d-ff94-1629",
+    "page": "",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "6",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "7",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "14",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "73fd-f891-2246-739b",
+    "name": "Tiger Shark",
+    "publicationId": "b884-c06d-8f66-ef7d",
+    "page": "",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "8",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "16",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "6040-379a-d35e-f83a",
+    "name": "Orca Dropship",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "56",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "6+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "7",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "8",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "14",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "7",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "9310-da7e-f355-9af6",
+    "name": "Remote Sensor Tower",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "58",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "-",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "4+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "-",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "-",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "cd30-4c13-3d5d-7a06",
+    "name": "Drone Sentry Turret",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "58",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "-",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "-",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "-",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "6",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "3",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "-",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "-",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "5cc5-c5be-d210-1b69",
+    "name": "Manta Super-heavy Dropship",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "8",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "60",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "5",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "464f-9148-5afd-1171",
+    "name": "Blacklight Marker Drone",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "41",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "5+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "3",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "4",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "1",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "1",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "6",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "4+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "1551-deb4-6f41-7cd1",
+    "name": "Tiger Shark AX-1-0",
+    "publicationId": "c0bb-c0cd-pubN142484",
+    "page": "",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "*",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "5+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "*",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "8",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "8",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "16",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "3",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "8",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "0f18-103c-0bf8-75a7",
+    "name": "Commander in XV8 Crisis Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "92",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "5",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  },
+  {
+    "id": "5b8c-36f2-7f6e-e3e3",
+    "name": "Commander in XV85 Enforcer Battlesuit",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "93",
+    "hidden": "false",
+    "typeId": "800f-21d0-4387-c943",
+    "typeName": "Unit",
+    "characteristics": [
+      {
+        "value": "8\"",
+        "type": "M",
+        "typeId": "0bdf-a96e-9e38-7779"
+      },
+      {
+        "value": "3+",
+        "type": "WS",
+        "typeId": "e7f0-1278-0250-df0c"
+      },
+      {
+        "value": "2+",
+        "type": "BS",
+        "typeId": "381b-eb28-74c3-df5f"
+      },
+      {
+        "value": "5",
+        "type": "S",
+        "typeId": "2218-aa3c-265f-2939"
+      },
+      {
+        "value": "5",
+        "type": "T",
+        "typeId": "9c9f-9774-a358-3a39"
+      },
+      {
+        "value": "6",
+        "type": "W",
+        "typeId": "f330-5e6e-4110-0978"
+      },
+      {
+        "value": "4",
+        "type": "A",
+        "typeId": "13fc-b29b-31f2-ab9f"
+      },
+      {
+        "value": "9",
+        "type": "Ld",
+        "typeId": "00ca-f8b8-876d-b705"
+      },
+      {
+        "value": "3+",
+        "type": "Save",
+        "typeId": "c0df-df94-abd7-e8d3"
+      }
+    ]
+  }
+]

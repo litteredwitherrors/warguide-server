@@ -1,0 +1,82 @@
+[
+  {
+    "id": "e387-f00b-10b9-4a04",
+    "name": "TY7 Devilfish (Transport)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "114",
+    "hidden": "false",
+    "typeId": "b3a8-0452-7436-44d1",
+    "typeName": "Transport",
+    "characteristics": [
+      {
+        "value": "A Devilfish can transport up to 12 <SEPT> INFANTRY or DRONE models. It cannot transport BATTLESUITS. It can transport only a single MB3 Recon Drone, but it does not count towards the total number of models embarked on the Devilfish.",
+        "type": "Capacity",
+        "typeId": "15aa-1916-a38b-d223"
+      }
+    ]
+  },
+  {
+    "id": "8627-1277-093a-41f3",
+    "name": "Tidewall (Transport)",
+    "publicationId": "c0bb-c0cd-pubN68738",
+    "page": "117-119",
+    "hidden": "false",
+    "typeId": "b3a8-0452-7436-44d1",
+    "typeName": "Transport",
+    "characteristics": [
+      {
+        "value": "This model can transport any number of T'AU EMPIRE INFANTRY CHARACTERS and one other T'AU EMPIRE INFANTRY unit, but no more than 10 models in total.",
+        "type": "Capacity",
+        "typeId": "15aa-1916-a38b-d223"
+      }
+    ]
+  },
+  {
+    "id": "a3af-cef9-c05c-7cd5",
+    "name": "Tiger Shark (Transport)",
+    "publicationId": "b884-c06d-8f66-ef7d",
+    "page": "",
+    "hidden": "false",
+    "typeId": "b3a8-0452-7436-44d1",
+    "typeName": "Transport",
+    "characteristics": [
+      {
+        "value": "This model can transport up to 14 <SEPT> TACTICAL DRONES",
+        "type": "Capacity",
+        "typeId": "15aa-1916-a38b-d223"
+      }
+    ]
+  },
+  {
+    "id": "1cc1-7ba5-f7ee-2b01",
+    "name": "Orca Dropship (Transport)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "56",
+    "hidden": "false",
+    "typeId": "b3a8-0452-7436-44d1",
+    "typeName": "Transport",
+    "characteristics": [
+      {
+        "value": "The Orca Dropship can transport up to 65 T'AU EMPIRE INFANTRY models, including DRONES, it may also transport XV8 CRISIS BATTLESUITS but each takes the space of two other models.",
+        "type": "Capacity",
+        "typeId": "15aa-1916-a38b-d223"
+      }
+    ]
+  },
+  {
+    "id": "0700-474f-37de-50b2",
+    "name": "Manta Super-heavy Dropship (Transport)",
+    "publicationId": "c0bb-c0cd-pubN67762",
+    "page": "57",
+    "hidden": "false",
+    "typeId": "b3a8-0452-7436-44d1",
+    "typeName": "Transport",
+    "characteristics": [
+      {
+        "value": "The Manta Super-heavy Dropship consists of two decks, both of which can carry models. - The upper deck has a transport capacity of 55 models, and may only transport models with the keywords T'AU EMPIRE INFANTRY or DRONE. - The lower deck has a Transport Capacity of 145 models with the T\"AU EMPIRE INFANTRY or DRONE keyword and up to eight XV8 CRISIS BATTLESUITS, XV8 CRISIS BODYGUARDS, XV9 HAZARD SUPPORT TEAM, COMMANDER IN XV81 BATTLESUIT, COMMANDER IN XV84 BATTLESUIT or any models with both the BATTLESUIT and COMMANDER keyword. It may also transport up to four of the following in any combination:     - TY7 DEVILFISH*     - TX7 HAMMERHEAD GUNSHIP     - TX7 HEAVY BOMBARDMENT HAMMERHEAD GUNSHIP     - TX7 FIRE SUPPORT HAMMERHEAD GUNSHIP  * Whilst embarked within a Manta, the Devilfish may have other models embarked within it, these models may not disembark until the Devilfish has itself diembarked from the Manta. In addition, models disembarking from a Devilfish may not do so on the same turn that the Devilfish has disembarked from a Manta.",
+        "type": "Capacity",
+        "typeId": "15aa-1916-a38b-d223"
+      }
+    ]
+  }
+]

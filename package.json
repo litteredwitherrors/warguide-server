@@ -1,0 +1,17 @@
+{
+  "name": "warguide-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lesaca",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
