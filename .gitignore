@@ -109,7 +109,7 @@ dist/
 tmp/
 temp/
 
-data/wh40k/
+data/
 
 # End of https://www.gitignore.io/api/node
 
